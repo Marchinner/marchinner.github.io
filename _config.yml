@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨🏻‍💻 # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://marchinner.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -292,9 +292,9 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 #  source: /_bibliography/
 #  bibliography: papers.bib
 #  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
+# Note: if you have latex math in your bibtex, the latex filter
+# preprocessing may conflict with MathJAX if the latter is enabled.
+# See https://github.com/alshedivat/al-folio/issues/357.
 #  bibtex_filters: [latex, smallcaps, superscript]
 
 #  replace_strings: true
@@ -309,8 +309,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 # Display different badges withs stats for your publications
 #enable_publication_badges:
-  #altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  #dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+#altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+#dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 #filtered_bibtex_keywords:

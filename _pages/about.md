@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-*Systems Analyst by profession 🖥️, aspiring developer on a journey to break into the development industry 🚀. Armed with expertise in C++ and Java, my focus is on honing skills for game development 🎮. Passionate about crafting immersive experiences, I'm working towards joining a game development studio in the near future 🌟.*
+_Systems Analyst by profession 🖥️, aspiring developer on a journey to break into the development industry 🚀. Armed with expertise in C++ and Java, my focus is on honing skills for game development 🎮. Passionate about crafting immersive experiences, I'm working towards joining a game development studio in the near future 🌟._
