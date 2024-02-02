@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: portfolio-website, game-development, cplusplus, cpp, unreal-engine, programming, development # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👨🏻‍💻 # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👨🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://marchinner.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -99,12 +99,12 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
+discord_id: 852976503531765822 # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can easily contact throught linkedin or sending a message from discord.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
