@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: DevPath Discoveries # blog_name will be displayed in your blog page
-blog_description: unveiling the Art and Science of Development.
+blog_description: Unveiling the Art and Science of Game Development.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -275,7 +275,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["C++", "Blender"] # these tags will be displayed on the front page of your blog
+display_tags: ["c++", "blender"] # these tags will be displayed on the front page of your blog
 display_categories: ["journal", "game-dev", "projects", "tutorials"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
