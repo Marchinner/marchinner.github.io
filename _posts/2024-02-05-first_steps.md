@@ -23,7 +23,7 @@ After some time, I've started playing with the 'map editor view', discovering th
 In the next day, after searching for a good learning resources, I find the uDemy course cited above and a vast quantity of sites/articles/documentation (I am thinking of writing an article with all these resources), and started the course.
 
 > _I use an Galaxy Tab S6 (2022 version) for taking handwritten notes,
-> and that help me a lot in the process. Taking screenshots from 
+> and that help me a lot in the process. Taking screenshots from
 > documentation and drawing in PDF's is a wonderful thing._
 
 Learning more about the interface in the beginning of the course helped me to really starting to understand how all the things get together in the engine. And starting by my self before everything helped to strengthen the learning.
