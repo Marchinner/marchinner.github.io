@@ -31,13 +31,14 @@ Learning more about the interface in the beginning of the course helped me to re
 Placing (and knowing what is) an actor came in next. Meshes and geometric basic objects, components, playing with _directional light_ placing two suns and tweaking the colors, making then work together and taking a beautiful screenshot of the result was a very good first experience, UE can make amazing graphics and effects. :heart_eyes:
 
 {% include figure.liquid path="assets/img/blog/two-suns.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Two beautiful suns in the desert planet in Unreal Engine 5.
 </div>
 
 ### Scripting and Coding
 
-My first blueprint was an simple 'function' to print an string to the screen, saying _Hello, World!_. Simple but give to me some basic understangind and with this, I've started to tweak and discover others functionalities of blueprints.
+My first blueprint was an simple 'function' to print an sustring to the screen, saying _Hello, World!_. Simple but give to me some basic understangind and with this, I've started to tweak and discover others functionalities of blueprints.
 
 During the course (until now), I learned how to create blueprint classes for Pawns (a bird) and a character (player), and how to make them move and look.
 
